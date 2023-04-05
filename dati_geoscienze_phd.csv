@@ -1,19 +1,10 @@
-ANNO	AteneoCOD	AteneoNOME	AteneoREGIONE	AteneoAREAGEO	CorsoTIPO	COD_FoET2013	DESC_FoET2013	Genere	DOTTORI	
-2020	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1082
-2020	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1068
-2019	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1125
-2019	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1144
-2018	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1222
-2018	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1184
-2017	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1256
-2017	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1472
-2016	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1240
-2016	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1106
-2015	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1353
-2015	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1200
-2014	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1308
-2014	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1257
-2013	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1273
-2013	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1192
-2012	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	F	1340
-2012	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	Dottorato di ricerca	5	Natural sciences	 mathematics and statistics	M	1157
+ANNO,AteneoNOME,AteneoREGIONE,CorsoTIPO,DESC_FoET2013,Genere,phd_F,phd_M
+2020,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1068,1082
+2019,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1144,1125
+2018,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1222,1184
+2017,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1472,1256
+2016,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1240,1106
+2015,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1353,1200
+2014,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1308,1257
+2013,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1273,1192
+2012,TOTALE ATENEI,ITALIA,Dottorato di ricerca,Natural sciences, mathematics and statistics,1340,1157
