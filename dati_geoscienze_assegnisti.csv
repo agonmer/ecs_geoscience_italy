@@ -1,19 +1,10 @@
-ANNO	CODICE_ATENEO	NOME_ATENEO	REGIONE	AREA_GEO	COD_QUALIFICA	DESC_QUALIFICA	GRADE	AREA_SD	FoRD	GENERE	N_AcStaff
-2020	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	136
-2020	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	178
-2019	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	112
-2019	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	152
-2018	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	112
-2018	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	169
-2017	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	121
-2017	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	168
-2016	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	123
-2016	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	168
-2015	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	139
-2015	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	177
-2014	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	146
-2014	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	209
-2013	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	161
-2013	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	233
-2012	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	F	157
-2012	TTTTT	TOTALE ATENEI	ITALIA	ITALIA	4AR	Titolare di assegno di ricerca	D	04-Scienze della terra	01-Natural sciences	M	222
+ANNO,NOME_ATENEO,AREA_GEO,DESC_QUALIFICA,AREA_SD,GENERE,N_AcStaff,N_F,N_M
+2020,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,136,178
+2019,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,112,152
+2018,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,112,169
+2017,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,121,168
+2016,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,123,168
+2015,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,139,177
+2014,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,146,209
+2013,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,161,233
+2012,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,157,222
