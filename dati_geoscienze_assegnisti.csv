@@ -1,10 +1,10 @@
-ANNO,NOME_ATENEO,AREA_GEO,DESC_QUALIFICA,AREA_SD,GENERE,N_AcStaff,N_F,N_M
-2020,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,136,178
-2019,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,112,152
-2018,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,112,169
-2017,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,121,168
-2016,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,123,168
-2015,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,139,177
-2014,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,146,209
-2013,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,161,233
-2012,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,F,,157,222
+ANNO,NOME_ATENEO,AREA_GEO,DESC_QUALIFICA,AREA_SD,N_F,N_M
+2020,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,136,178
+2019,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,112,152
+2018,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,112,169
+2017,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,121,168
+2016,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,123,168
+2015,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,139,177
+2014,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,146,209
+2013,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,161,233
+2012,TOTALE ATENEI,ITALIA,Titolare di assegno di ricerca,04-Scienze della terra,157,222
